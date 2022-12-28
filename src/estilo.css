@@ -1,0 +1,28 @@
+/*posicionamento das tags e estilos*/
+main {
+    margin-left: 31.5%;
+}
+span {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    
+}
+div {
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(206, 197, 197, 0.856);
+    
+
+}
+img {
+    height: 350px;
+    width:350px;
+    border-radius: 500px;
+}
+/*posicionamento das tags e estilos*/
